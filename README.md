@@ -4,7 +4,7 @@
 
 ### `Primera pregunta`
 
-![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.01.06.png?alt=media&token=ca41364b-c1ca-4f2d-977b-67d679be46f8g)
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.01.06.png?alt=media&token=ca41364b-c1ca-4f2d-977b-67d679be46f8)
 
 ### `Segunda pregunta`
 
