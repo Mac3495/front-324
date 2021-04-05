@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# INF - 324 Primer Parcial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Marcelo Torrez Azuga
 
-## Available Scripts
+### `Primera pregunta`
 
-In the project directory, you can run:
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.01.06.png?alt=media&token=ca41364b-c1ca-4f2d-977b-67d679be46f8g)
 
-### `yarn start`
+### `Segunda pregunta`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.03.46.png?alt=media&token=364905c9-d23c-4a1a-bc4e-58af0a9db0dd)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `Tercera pregunta`
 
-### `yarn test`
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.06.03.png?alt=media&token=8e580bce-4153-49c5-a5ed-3bc715545050)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `Cuarta pregunta`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.06.37.png?alt=media&token=ba8899af-568f-41ee-b374-98e5abc80f61)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.07.08.png?alt=media&token=e62b2b91-fdb0-4612-be2d-fc3014023470)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `Quienta pregunta`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.06.37.png?alt=media&token=ba8899af-568f-41ee-b374-98e5abc80f61)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Esta es una imagen de ejemplo](https://firebasestorage.googleapis.com/v0/b/inf-324.appspot.com/o/Captura%20de%20Pantalla%202021-04-05%20a%20la(s)%2000.07.23.png?alt=media&token=52be620d-f81e-4701-990b-8a88227a1e74)

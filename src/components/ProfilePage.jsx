@@ -76,7 +76,7 @@ export default function HomePage() {
   const [userDB, setUserDB] = useState([]);
   const [notesDB, setNotesDB] = useState([]);
   const [allNotesDB, setAllNotesDB] = useState([]);
-  const [rol, setRol] = useState(0);
+  const [rol, setRol] = useState(1);
   const [color, setColor] = useState(0);
 
   useEffect( async () => {
